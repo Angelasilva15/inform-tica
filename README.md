@@ -1,11 +1,11 @@
 # INFORMÁTICA
 Portifólios de Trabalhos desenvolvidos na FATEC GPI 2025 
 ## APRESENTAÇÃO 1° ATIVIDADE: APRESENTAÇÃO PESSOAL
-![Captura de tela 2025-03-20 203942](https://github.com/user-attachments/assets/2782feb1-96a6-4ac1-8021-b94a396cb5d8)
-![Captura de tela 2025-03-20 203932](https://github.com/user-attachments/assets/6d7a5e81-f486-4717-b4ab-89a512eeca63)
-![Captura de tela 2025-03-20 203917](https://github.com/user-attachments/assets/ecae5abb-f9a9-4ccd-b3f0-77a0f4686698)
-![Captura de tela 2025-03-20 203901](https://github.com/user-attachments/assets/21af2800-5404-4bac-bf0d-f8b1b3b24eb0)
-![Captura de tela 2025-03-20 204029](https://github.com/user-attachments/assets/dd2d762f-7612-4aed-aed8-0e047734aa6d)
-![Captura de tela 2025-03-20 204021](https://github.com/user-attachments/assets/e547899c-07f5-4ef9-9d61-25120a471314)
-![Captura de tela 2025-03-20 204010](https://github.com/user-attachments/assets/11680ed1-81d6-4ec2-9f79-ffbe0764d925)
-![Captura de tela 2025-03-20 203956](https://github.com/user-attachments/assets/f64b964b-f15a-4d7e-aaac-d344daad431d)
+![Captura de tela 2025-03-20 203901](https://github.com/user-attachments/assets/04d60901-740e-42bd-8bc2-af2f2fe80755)
+![Captura de tela 2025-03-20 203917](https://github.com/user-attachments/assets/bee8775a-0989-45c1-bb04-e67864134d50)
+![Captura de tela 2025-03-20 203932](https://github.com/user-attachments/assets/bdf5f045-eed3-44d2-a05d-ad570f123ed2)
+![Captura de tela 2025-03-20 203942](https://github.com/user-attachments/assets/7780c039-f8bb-4687-b669-25dfc05616e1)
+![Captura de tela 2025-03-20 203956](https://github.com/user-attachments/assets/22c211be-c5c7-44f7-8b6b-ef5c3d8daf16)
+![Captura de tela 2025-03-20 204010](https://github.com/user-attachments/assets/e2de3a4c-35ef-47f9-81fe-b1ef15aebbf1)
+![Captura de tela 2025-03-20 204021](https://github.com/user-attachments/assets/993d47c7-0435-4d42-a2db-b9b34eff0487)
+![Captura de tela 2025-03-20 204029](https://github.com/user-attachments/assets/f35f044b-45f3-4bd5-a96e-a35fcf695ce4)
