@@ -7,6 +7,7 @@
 https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20inform%C3%A1tica.pdf
 
 ## 2° ATIVIDADE: Planilha de Custos
+[planilha financeira  2025.xlsx](https://github.com/user-attachments/files/19667209/planilha.financeira.2025.xlsx)
 
 
 ## 3° ATIVIDADE: Usando dados abertos
