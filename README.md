@@ -19,7 +19,6 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20
 
 
 ## 4° ATIVIDADE: Power BI
-![Captura de tela 2025-04-09 104429](https://github.com/user-attachments/assets/82fcaf38-0bbe-47f8-b0e3-4d85057f5f92)
 
 ![Captura de tela 2025-04-09 103732](https://github.com/user-attachments/assets/c2489f1c-dde3-42cb-b860-4530432a319b)
 
@@ -27,8 +26,10 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Quantidade%20de%20alunos%
 
 
 
+#VALENDO NOTA
+## 5° ATIVIDADE: Usando dados abertos e Power BI/
 
-## 5° ATIVIDADE: Usando dados abertos e Power BI.
+![Captura de tela 2025-04-09 104429](https://github.com/user-attachments/assets/82fcaf38-0bbe-47f8-b0e3-4d85057f5f92)
 
 [arquivo educação  10.04.xlsx](https://github.com/user-attachments/files/19659410/arquivo.educacao.10.04.xlsx)
 
