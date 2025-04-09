@@ -22,6 +22,8 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20
 
 ![Captura de tela 2025-04-09 103732](https://github.com/user-attachments/assets/c2489f1c-dde3-42cb-b860-4530432a319b)
 
+https://github.com/Angelasilva15/inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade.%20PBIX.pbix
+
 
 
 
