@@ -21,6 +21,8 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20
 ## 5° ATIVIDADE: Usando dados abertos e Power BI.
 [arquivo educação  10.04.xlsx](https://github.com/user-attachments/files/19659410/arquivo.educacao.10.04.xlsx)
 
+https://github.com/Angelasilva15/inform-tica/blob/main/Arquivo%20educa%C3%A7%C3%A3o%2001.pbix 
+
 
 
 
