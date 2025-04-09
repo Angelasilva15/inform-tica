@@ -8,6 +8,7 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20
 
 ## 2° ATIVIDADE: Planilha de Custos
 ![Captura de tela 2025-04-09 100129](https://github.com/user-attachments/assets/82e32b3a-469b-47d5-8ff3-9b26ecc5e71d)
+
 [planilha financeira  2025.xlsx](https://github.com/user-attachments/files/19667352/planilha.financeira.2025.xlsx)
 
 
@@ -19,9 +20,8 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20
 
 ## 4° ATIVIDADE: Power BI
 
-https://github.co![Captura de tela 2025-04-09 103732](https://github.com/user-attachments/assets/1a0af776-c65a-477d-b16a-26c807fc073b)
+![Captura de tela 2025-04-09 103732](https://github.com/user-attachments/assets/c2489f1c-dde3-42cb-b860-4530432a319b)
 
-m/Angelasilva15/inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade.%20PBIX.pbix
 
 
 
