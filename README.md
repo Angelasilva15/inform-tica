@@ -19,6 +19,7 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20
 
 
 ## 4° ATIVIDADE: Power BI
+![Captura de tela 2025-04-09 104429](https://github.com/user-attachments/assets/82fcaf38-0bbe-47f8-b0e3-4d85057f5f92)
 
 ![Captura de tela 2025-04-09 103732](https://github.com/user-attachments/assets/c2489f1c-dde3-42cb-b860-4530432a319b)
 
