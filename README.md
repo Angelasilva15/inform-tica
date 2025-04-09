@@ -18,7 +18,7 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20
 
 
 ## 4° ATIVIDADE: Power BI
-Quantidade de alunos estrangeiros por nacionalidade. PBIX.pbix
+
 
 
 ## 5° ATIVIDADE: Usando dados abertos e Power BI.
