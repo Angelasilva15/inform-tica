@@ -18,6 +18,8 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20
 
 
 ## 4° ATIVIDADE: Power BI
+https://github.co![Captura de tela 2025-04-09 103732](https://github.com/user-attachments/assets/1a0af776-c65a-477d-b16a-26c807fc073b)
+m/Angelasilva15/inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade.%20PBIX.pbix
 
 
 
