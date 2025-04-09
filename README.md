@@ -11,6 +11,7 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Apresenta%C3%A7%C3%A3o%20
 
 ## 3° ATIVIDADE: Usando dados abertos
 ![Captura de tela 2025-04-03 203154](https://github.com/user-attachments/assets/6d4eb0f2-12e4-49a6-9f09-34bcb8e91777)
+
 [arquivo17.03.2025.xlsx](https://github.com/user-attachments/files/19596036/arquivo17.03.2025.xlsx)
 
 
