@@ -35,6 +35,9 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Quantidade%20de%20alunos%
 
 https://github.com/Angelasilva15/inform-tica/blob/main/Arquivo%20educa%C3%A7%C3%A3o%2001.pbix 
 
+## 6° ATIVIDADE: Regreção Linear e Excel Machine Learning
+
+![Captura de tela 2025-04-01 203612](https://github.com/user-attachments/assets/2ceea582-66ae-4542-a8ef-b1582ba26f28)
 
 
 
