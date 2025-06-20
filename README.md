@@ -41,3 +41,6 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Arquivo%20educa%C3%A7%C3%
 
 ![Captura de tela 2025-06-19 211352](https://github.com/user-attachments/assets/75830dd2-1843-4e42-a7df-49c0284d4d84)
 
+[dados_imoveis_regressao.ipynb (1).xlsx](https://github.com/user-attachments/files/20827145/dados_imoveis_regressao.ipynb.1.xlsx)
+
+
