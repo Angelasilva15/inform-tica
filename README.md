@@ -37,7 +37,4 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Arquivo%20educa%C3%A7%C3%
 
 ## 6° ATIVIDADE: Regreção Linear e Excel Machine Learning
 
-![Captura de tela 2025-04-01 203612](https://github.com/user-attachments/assets/2ceea582-66ae-4542-a8ef-b1582ba26f28)
-
-
-
+![Captura de tela 2025-06-19 211239](https://github.com/user-attachments/assets/ac194e63-190a-441e-885c-f7611f0de4f7)
