@@ -44,6 +44,7 @@ https://github.com/Angelasilva15/inform-tica/blob/main/Arquivo%20educa%C3%A7%C3%
 [dados_imoveis_regressao.ipynb (1).xlsx](https://github.com/user-attachments/files/20827145/dados_imoveis_regressao.ipynb.1.xlsx)
 
 cerveja.ipynb
+https://github.com/Angelasilva15/inform-tica/blob/main/cerveja.ipynb
 
 
 ## 7° ATIVIDADE: Power Automate e Power APPS
