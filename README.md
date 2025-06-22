@@ -51,6 +51,10 @@ https://github.com/Angelasilva15/inform-tica/blob/main/cerveja.ipynb
 
 ![Captura de tela 2025-06-22 163216](https://github.com/user-attachments/assets/947511b8-2664-4d43-8eec-d1942538a50a)
 
+https://github.com/Angelasilva15/inform-tica/blob/main/POWER%20APP.zip
+
+
+
 
 
 
