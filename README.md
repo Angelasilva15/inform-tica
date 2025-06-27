@@ -59,6 +59,7 @@ https://github.com/Angelasilva15/inform-tica/blob/main/POWER%20APP.zip
 
 [Aplicativo Prova Informática.zip](https://github.com/user-attachments/files/20935191/Aplicativo.Prova.Informatica.zip)
 
+Power BI Prova https://github.com/Angelasilva15/inform-tica/blob/main/Dashboard%20PowerBI%20prova.zip
 
 
 
