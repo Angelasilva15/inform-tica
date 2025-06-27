@@ -58,7 +58,7 @@ https://github.com/Angelasilva15/inform-tica/blob/main/POWER%20APP.zip
 ![Captura de tela 2025-06-26 203222](https://github.com/user-attachments/assets/0f0329e7-8515-481e-90cd-d74690376a6c)
 
 [Aplicativo Prova Informática.zip](https://github.com/user-attachments/files/20935191/Aplicativo.Prova.Informatica.zip)
-[Uploading Dashboard PowerBI prova.zip…]()
+
 
 
 
